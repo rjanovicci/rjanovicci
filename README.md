@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)](https://is.gd/beedev)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeljanovicci/)](https://www.linkedin.com/in/rafaeljanovicci/)
-[![YouTube](https://img.shields.io/badge/BeeDev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=&link=https://www.youtube.com/channel/UCYzc-mX8aPjm7mPvvq_eB9g/)](https://www.youtube.com/channel/UCYzc-mX8aPjm7mPvvq_eB9g/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rjanovicci@hotmail.com)](mailto:rjanovicci@hotmail.com)
 
  ## Full Stack Developer
 
