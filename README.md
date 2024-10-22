@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)](https://is.gd/beedev)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeljanovicci/)](https://www.linkedin.com/in/rafaeljanovicci/)
+<br>
 **Email**: rjanovicci@hotmail.com
 
  ## Full Stack Developer
