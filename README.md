@@ -1,17 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)](https://is.gd/beedev)
+# 👋 Olá, eu sou o Rafael Janovicci!
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeljanovicci/)](https://www.linkedin.com/in/rafaeljanovicci/)
-<br>
-**Email**: rjanovicci@hotmail.com
+## 💻 Sobre Mim
+Sou Desenvolvedor Full Stack com 3 anos de experiência em .NET, C#, React e Node.js. Tenho especialização em **APIs RESTful**, **otimização de bancos de dados SQL** e trabalho em **ambientes ágeis**. Atualmente, atuo no desenvolvimento de **sistemas distribuídos**, **aplicações web modernas**, **testes automatizados** e **arquitetura escalável**, com foco em Node.js e React.  
+Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas complexos de forma eficiente e escalável.
 
- ## Full Stack Developer
+---
 
-<hr/>
+## 🛠️ Habilidades
+**Linguagens:** C#, TypeScript, JavaScript, SQL  
+**Frameworks:** .NET Core, React, Node.js, Express  
+**Banco de Dados:** MySQL, SQL Server, MongoDB  
+**Metodologias:** Agile, Scrum, Kanban  
+**Outros:** AWS (Lambda, API Gateway), CI/CD, SOLID, Clean Architecture, Jest (testes automatizados)  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjanovicci&layout=compact&theme=dracula" alt="Rafael Janovicci">
+---
 
-[![rjanovicci's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjanovicci&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dracula)](https://github.com/rjanovicci/github-readme-stats)
+## 🧑‍💻 Experiência
+**Win.Win (04/2022 - Atual)**  
+- Desenvolvimento e manutenção de software em .NET Core, .NET Framework, React e TypeScript.  
+- Otimização de queries SQL, reduzindo tempo de execução e aumentando performance.  
+- Criação de APIs RESTful para integração entre sistemas legados e modernos.  
 
-<hr>
+**Projeto Pessoal – Sistema de Gestão de Rotas (06/2024 - Atual)**  
+- Backend em Node.js com TypeScript e banco MySQL.  
+- Automação de processos de gestão de rotas para a empresa TotalLimp, eliminando o uso de papel.  
+- Stack utilizada: **React, TailwindCSS, Node.js, Puppeteer, MySQL, Hostinger**.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjanovicci" alt="Rafael Janovicci" /> </p>
+---
+
+## 🎓 Educação
+- **Ampli (01/2023 - 12/2024)** – Tecnólogo em Ciência de Dados  
+  *Análise de dados, Machine Learning, Redes Neurais, IA e geração de insights estratégicos.*  
+
+- **Trybe (05/2021 - 05/2022)** – Desenvolvimento de Software Fullstack  
+  *Fundamentos, Front-end (React), Back-end (Node.js, SQL), Ciência da Computação.*  
+
+---
+
+## 🏆 Conquistas e Certificações
+- **Desenvolvimento Back-End (Trybe):** APIs RESTful, Node.js, SQL/NoSQL, CI/CD  
+- **Desenvolvimento Front-End (Trybe):** React, Hooks, Redux, Testes  
+- **Fundamentos do Desenvolvimento Web (Trybe):** JavaScript, HTML, CSS, Git  
+
+---
+
+## 📫 Contato
+- 📍 Rio das Ostras, RJ - Brasil  
+- 📧 E-mail: **rjanovicci@hotmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaeljanovicci)  
+- 💻 [GitHub](https://github.com/rjanovicci)  
