@@ -7,8 +7,8 @@ Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas c
 ---
 
 ## 🛠️ Habilidades
-**Linguagens:** C#, TypeScript, JavaScript, SQL  
-**Frameworks:** .NET Core, React, Node.js, Express  
+**Linguagens:** C#, TypeScript, JavaScript, SQL, Python, Java
+**Frameworks:** .NET Core, .NET Framework, React, Node, Express
 **Banco de Dados:** MySQL, SQL Server, MongoDB  
 **Metodologias:** Agile, Scrum, Kanban  
 **Outros:** AWS (Lambda, API Gateway), CI/CD, SOLID, Clean Architecture, Jest (testes automatizados)  
