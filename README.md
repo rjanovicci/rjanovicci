@@ -23,7 +23,7 @@ Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas c
 - Otimização de queries SQL, reduzindo tempo de execução e aumentando a performance do sistema.  
 - Criação e manutenção de **APIs RESTful** para integração entre sistemas legados e modernos.  
 
-**Projeto Pessoal – Sistema de Gestão de Rotas** *(06/2024 – 12/2025)*  
+**TotalLimp – Sistema de Gestão de Rotas** *(06/2024 – 12/2025)*  
 - Backend desenvolvido em **Node.js com TypeScript** e banco **MySQL**.  
 - Automação de processos de gestão de rotas na empresa **TotalLimp**, eliminando fluxos em papel.  
 - Stack utilizada: **React, TailwindCSS, Node.js, Puppeteer, MySQL, Hostinger**.  
