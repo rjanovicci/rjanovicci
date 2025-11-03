@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Rafael Janovicci!  
 
 ## 💻 Sobre Mim  
-Sou **Desenvolvedor Full Stack** com 3 anos de experiência em **.NET, C#, React e Node.js**. Tenho sólida atuação em **APIs RESTful**, **otimização de bancos de dados SQL** e **ambientes ágeis**. Atualmente, trabalho no desenvolvimento de **sistemas distribuídos**, **aplicações web modernas**, **testes automatizados** e **arquitetura escalável**, com foco em **Node.js e React**.  
+Sou **Desenvolvedor Full Stack** com 4 anos de experiência. Tenho sólida atuação em **APIs RESTful**, **otimização de bancos de dados SQL** e **ambientes ágeis**. Atualmente, trabalho no desenvolvimento de **sistemas distribuídos**, **aplicações web modernas**, **testes automatizados** e **arquitetura escalável**.
 
 Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas complexos de forma eficiente e escalável.  
 
@@ -12,7 +12,7 @@ Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas c
 - **Frameworks:** .NET Core, .NET Framework, React, Node.js, Express  
 - **Banco de Dados:** MySQL, SQL Server, MongoDB  
 - **Metodologias:** Agile (Scrum, Kanban)  
-- **Outros:** AWS (Lambda, API Gateway), CI/CD, SOLID, Clean Architecture, Jest (testes automatizados)  
+- **Outros:** AWS (Lambda, API Gateway), GCP, CI/CD, SOLID, Clean Architecture, Jest (testes automatizados)  
 
 ---
 
