@@ -18,7 +18,7 @@ Sou comprometido com aprendizado contínuo e apaixonado por resolver problemas c
 
 ## 🧑‍💻 Experiência  
 
-**Win.Win** *(04/2022 – Atual)*  
+**Win.Win** *(04/2022 – 01/2026)*  
 - Desenvolvimento e manutenção de aplicações em **.NET Core, .NET Framework, React e TypeScript**.  
 - Otimização de queries SQL, reduzindo tempo de execução e aumentando a performance do sistema.  
 - Criação e manutenção de **APIs RESTful** para integração entre sistemas legados e modernos.  
